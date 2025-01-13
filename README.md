@@ -8,5 +8,5 @@ Under construction!
 
 
 Jimbo
-+4 mult
+(+4 mult)
 
