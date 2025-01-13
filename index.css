@@ -1,0 +1,18 @@
+* { image-rendering: pixelated;
+
+.barseg{
+	position: absolute; bottom: 0;
+	width: 100%;
+	background-color: blue; height: 10%;
+}
+
+.bargraph {
+	position: relative;
+	border: 3px solid black;
+	width: 200px;
+	background-color: gray;
+}
+
+.bargraph img {
+	width: 100%; mix-blend-mode: lighten
+}
